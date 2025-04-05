@@ -1,0 +1,17 @@
+%s for strings
+
+%d for integers
+
+%f for floating-point numbers
+
+%x for hexadecimal (lowercase)
+
+%X for hexadecimal (uppercase)
+
+%o for octal
+
+%e for scientific notation (lowercase)
+
+%E for scientific notation (uppercase)
+
+%g for general format (based on the number)
