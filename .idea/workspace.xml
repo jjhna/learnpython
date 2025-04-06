@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e062f87-2076-41cd-94a6-7a6e513e8b9d" name="Changes" comment="learning python from learnpython.org Part 1&#10;these include &#10;string formats&#10;operations/operators&#10;conditions&#10;loops&#10;functions&#10;class/objects&#10;dictionaries&#10;modules/packages&#10;input/output&#10;generators&#10;list_comprehensions">
-      <change afterPath="$PROJECT_DIR$/lambda_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiple_function_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regexp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,8 @@
     "Python.input_output.executor": "Run",
     "Python.lambda.executor": "Run",
     "Python.lambda_functions.executor": "Run",
+    "Python.multiple_function_kwargs.executor": "Run",
+    "Python.regexp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
