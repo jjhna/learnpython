@@ -32,16 +32,18 @@ actor2 = {"name": "Mike Cheese", "rank": "awesome"}
 
 def get_last_name(thelist):
     #Remember that "in" can be specifically used for finding values in a list, and we're only trying to get the word "name" from the keys
-    if "name" not in thelist:
-        return "No names found"
-    for key, value in thelist.items():
-        trythis = thelist["name"]
-        try:
-            return trythis.split()[1]
-        except KeyError:
-            return "There are no names in that list"
-        except IndexError:
-            return "There isn't a name in that list"
+    try:
+        if "name" in thelist:
+            return thelist["name"].split()[1]
+        else:
+            #Note that you don't return exceptions/errors instead you need to raise them
+            raise TypeError
+    except KeyError:
+        return "There are no names in that list"
+    except IndexError:
+        return "There isn't a name in that list"
+    except TypeError:
+        return "The wrong type of value (non-string) is in the list"
 
 get_last_name(actor2)
 print("All exceptions caught! Good job2!")
