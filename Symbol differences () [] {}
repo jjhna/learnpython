@@ -1,0 +1,5 @@
+Summary of Differences:
+Symbol	Data Structure	Key Feature
+()	Tuple	Ordered, immutable (unchangeable) collection of items.
+[]	List	Ordered, mutable (changeable) collection of items.
+{}	Dictionary / Set	Dictionary: Key-value pairs (unordered). Set: Unique, unordered items.
