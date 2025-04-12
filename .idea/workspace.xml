@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e062f87-2076-41cd-94a6-7a6e513e8b9d" name="Changes" comment="learning python from learnpython.org Part 1&#10;these include &#10;string formats&#10;operations/operators&#10;conditions&#10;loops&#10;functions&#10;class/objects&#10;dictionaries&#10;modules/packages&#10;input/output&#10;generators&#10;list_comprehensions">
-      <change afterPath="$PROJECT_DIR$/code_introspection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nonlocal_closures.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2vJsiIc2LfjevgneIJEOV4yc21T" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,6 +43,7 @@
     "Python.lambda.executor": "Run",
     "Python.lambda_functions.executor": "Run",
     "Python.multiple_function_kwargs.executor": "Run",
+    "Python.nonlocal_closures.executor": "Run",
     "Python.partial_functions.executor": "Run",
     "Python.regexp.executor": "Run",
     "Python.seralization.executor": "Run",
