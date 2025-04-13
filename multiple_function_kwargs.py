@@ -1,4 +1,8 @@
-# **kwargs = keyword arguments
+'''
+*args = allows you to pass multiple variable arguments
+**kwargs = allows you to pass dictionaries
+'''
+
 
 def foo2(first, second, third, *therest):
     print("First: %s" %(first))
