@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e062f87-2076-41cd-94a6-7a6e513e8b9d" name="Changes" comment="learning python from learnpython.org Part 1&#10;these include &#10;string formats&#10;operations/operators&#10;conditions&#10;loops&#10;functions&#10;class/objects&#10;dictionaries&#10;modules/packages&#10;input/output&#10;generators&#10;list_comprehensions">
-      <change afterPath="$PROJECT_DIR$/Map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Filter.executor": "Run",
     "Python.Map.executor": "Run",
     "Python.Sets_SQL.executor": "Run",
     "Python.code_introspection.executor": "Run",
