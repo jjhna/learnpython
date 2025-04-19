@@ -2,6 +2,7 @@
 Reduce is another built-in function that reduces a sequence of elements to a single value.
 So it grabs an iterable list of numbers and uses the first argument (a func()) to iterate through each element while keeping the previous results as the first element
 Please note that reduce() can have 3 arguments, if the 3rd argument is used, then its utilized as the first element otherwise the first element from the iterable list is used
+Please also note that you have to import the reduce() function
 
 For example:
 '''
