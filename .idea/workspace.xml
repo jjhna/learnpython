@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e062f87-2076-41cd-94a6-7a6e513e8b9d" name="Changes" comment="learning python from learnpython.org Part 1&#10;these include &#10;string formats&#10;operations/operators&#10;conditions&#10;loops&#10;functions&#10;class/objects&#10;dictionaries&#10;modules/packages&#10;input/output&#10;generators&#10;list_comprehensions">
-      <change afterPath="$PROJECT_DIR$/Map_Filter_Reduce test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Read_CSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Write_CSV.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reduce.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +40,11 @@
     "Python.Filter.executor": "Run",
     "Python.Map.executor": "Run",
     "Python.Map_Filter_Reduce test.executor": "Run",
+    "Python.Parsing_CSV.executor": "Run",
+    "Python.Read_CSV.executor": "Run",
     "Python.Reduce.executor": "Run",
     "Python.Sets_SQL.executor": "Run",
+    "Python.Write_CSV.executor": "Run",
     "Python.code_introspection.executor": "Run",
     "Python.decorators.executor": "Run",
     "Python.exception_handling.executor": "Run",
