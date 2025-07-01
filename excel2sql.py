@@ -33,6 +33,32 @@ def withoutAs(filename2):
                 total += "CAST(\'" + splity[0] + "\' AS " + splity[1] + "), "
         print(total)
 
+"""
+Note that this worked for another CSV file???
+
+# print out the select query with each cast column with the as statement
+def withAs(filename2): 
+    total = ""
+    with open(filename2, 'r') as csvfile:
+        csvreader = csv.reader(csvfile)
+        next(csvreader)
+        total += "SELECT "
+        for row in csvreader:
+            total += "CAST(\'" + row[0] + "\' AS " + row[1] + "), "
+        print(total)
+
+# print out the select query with each cast column without the as statement
+def withoutAs(filename2): 
+    total = ""
+    with open(filename2, 'r') as csvfile:
+        csvreader = csv.reader(csvfile)
+        next(csvreader)
+        total += "SELECT "
+        for row in csvreader:
+            total += "CAST(\'" + row[0] + "\' AS " + row[1] + "), "
+        print(total)
+
+"""
 
 # get the csv file from the user, please note that the user only needs to type in the file name in the same directory and doesn't need to add in .csv suffix 
 filename = input("Please enter the csv file name you want to convert to select SQL query: ")
