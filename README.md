@@ -33,3 +33,8 @@ Advanced Tutorials
     Decorators
     Map, Filter, Reduce
     Parsing CSV Files
+
+Additional lessons include:
+https://edube.org/learn/pe-1/
+and
+https://edube.org/learn/pe-2/
